@@ -369,6 +369,13 @@ a {
   height: 100%;
   border-radius: 16px;
   background: var(--background);
+  transition: all ease-in-out 200ms;
+}
+
+.image-spinner-container {
+  width: 100%;
+  min-height: 230px;
+  position: relative;
 }
 
 .card-info {
