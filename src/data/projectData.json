@@ -3,63 +3,63 @@
     "id": 1,
     "title": "SHYN",
     "description": "Shyn provides a customized subscription service featuring top-tier oral care products designed to simplify and enhance your dental hygiene routine.",
-    "image": "src/assets/projects/shyn.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/gagan-prasad.appspot.com/o/shyn.jpg?alt=media&token=b19a0faa-955b-4107-9688-48eb2dbc983c",
     "liveLink": "https://shyn.com/"
   },
   {
     "id": 2,
     "title": "AAZOL",
     "description": "Aazol offers a curated selection of authentic Maharashtrian delicacies and ingredients, featuring traditional recipes for homemade pickles, spices, and snacks. Perfect for those seeking genuine regional flavors.",
-    "image": "src/assets/projects/aazol.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/gagan-prasad.appspot.com/o/aazol.jpg?alt=media&token=b883fba4-61bb-42f0-bc10-15fb19fda02d",
     "liveLink": "https://aazol.in/"
   },
   {
     "id": 3,
     "title": "BLACKBERRYS",
     "description": "Blackberrys is an esteemed Indian clothing brand specializing in premium men's formal wear, providing a distinguished collection of suits, shirts, and accessories to enhance the professional wardrobe effortlessly.",
-    "image": "src/assets/projects/blackberrys.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/gagan-prasad.appspot.com/o/blackberrys.jpg?alt=media&token=b05586e9-95f7-463b-9b3c-b049312f6cfd",
     "liveLink": "https://blackberrys.com/"
   },
   {
     "id": 4,
     "title": "SIMPLE COMPARE",
     "description": "Simple Compare is a user-friendly web-based tool that quickly highlights differences between two text snippets. Ideal for analyzing code, documents, or any text, it provides a clear interface to identify changes like additions, deletions, or character modifications.",
-    "image": "src/assets/projects/simpleCompare.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/gagan-prasad.appspot.com/o/simpleCompare.jpg?alt=media&token=f7fe4a7b-77d7-4850-97da-6dc934ee1ccd",
     "liveLink": "https://simple-compare.web.app/"
   },
   {
     "id": 5,
     "title": "ORGANIC NUTRITION",
     "description": "Organic Nutrition is a platform for fruit enthusiasts, offering a comprehensive database to explore, add, and update fruit information. With robust multi-language support, it caters to a global audience, enhancing dietary choices and promoting a healthy lifestyle.",
-    "image": "src/assets/projects/organic.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/gagan-prasad.appspot.com/o/organic.jpg?alt=media&token=a9ae07e0-0836-4ada-a930-0da72dcc4917",
     "liveLink": "https://organic-nutrient.web.app/"
   },
   {
     "id": 6,
     "title": "ETHER EDITOR",
     "description": "Ether Editor is an online collaborative platform that allows multiple users to edit JavaScript code in real-time.  Ideal for live coding sessions, coding interviews, and educational purposes.",
-    "image": "src/assets/projects/etherEditor.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/gagan-prasad.appspot.com/o/etherEditor.jpg?alt=media&token=f544ea29-99db-4bdb-9a8d-a560f5e8b8f6",
     "liveLink": "https://ether-editor-q2mv.onrender.com/"
   },
   {
     "id": 7,
     "title": "EPIGAMIA",
     "description": "Epigamia is one of India's leading health snack brands, offering a diverse range of artisanal yogurt and other dairy delights designed to provide nutritious and tasty options for a balanced diet.",
-    "image": "src/assets/projects/epigamia.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/gagan-prasad.appspot.com/o/epigamia.jpg?alt=media&token=70c718ef-7b2e-409c-9df2-a00cf25e409d",
     "liveLink": "https://epigamiastore.com/"
   },
   {
     "id": 8,
     "title": "XYXX",
     "description": "XYXX offers a wide online collection of super comfy men’s apparel made from 100% natural fabrics. The website highlights a range of premium inner and outerwear designed for the modern man, emphasizing comfort, style, and sustainability.",
-    "image": "src/assets/projects/xyxx.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/gagan-prasad.appspot.com/o/xyxx.jpg?alt=media&token=85dc87f2-601f-40c4-a81a-b06a12def716",
     "liveLink": "https://xyxxcrew.com/"
   },
   {
     "id": 9,
     "title": "SUSTAIN NATURE NEST",
     "description": "Sustain Nature Nest is AI-driven dynamic online resource for exploring eco-friendly practices and understanding waste management.",
-    "image": "src/assets/projects/ssn.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/gagan-prasad.appspot.com/o/ssn.jpg?alt=media&token=3857c508-9d68-4c0d-9d5d-5a7da17f05ca",
 
     "liveLink": "https://sustainnaturenest.web.app/"
   },
@@ -67,14 +67,14 @@
     "id": 10,
     "title": "4700BC",
     "description": "4700BC presents a gourmet collection of snacks including Popcorn, Crunchy Corn, Protein Pops, and more. The website showcases a wide range of delicious options, perfect for anyone looking to indulge in guilt-free binging during parties or movie nights.",
-    "image": "src/assets/projects/4700bc.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/gagan-prasad.appspot.com/o/4700bc.jpg?alt=media&token=1f16f9fb-4fd9-477d-bb5f-e68bdedf272d",
     "liveLink": "https://4700bc.com/"
   },
   {
     "id": 11,
     "title": "Advanced Automation",
     "description": "Acronis Advanced Automation enables modern MSPs to enhance profitability and streamline operations. It offers centralized control of back-office functions, time tracking, staff utilization, and automated, consumption-based billing.",
-    "image": "src/assets/projects/acronis.png",
+    "image": "https://firebasestorage.googleapis.com/v0/b/gagan-prasad.appspot.com/o/acronis.png?alt=media&token=1dcb7451-e772-480f-ae89-2997b10f97de",
     "liveLink": "https://www.acronis.com/en-us/products/cloud/cyber-protect/automation/"
   }
 ]
