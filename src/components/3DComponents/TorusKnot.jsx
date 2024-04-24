@@ -50,7 +50,7 @@ const TorusKnot = () => {
         scale={1.5}
         position={originalPosition.current.toArray()}
       >
-        <torusKnotGeometry args={[1, 0.3, 300, 16]} />
+        <torusKnotGeometry args={[4, 0.4, 300, 16]} />
         <meshStandardMaterial
           attach="material"
           color="#ed143d"

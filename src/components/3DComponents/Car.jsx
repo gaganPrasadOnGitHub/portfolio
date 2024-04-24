@@ -13,10 +13,10 @@ export default function Car() {
   const materialsConfig = useMemo(() => {
     const colorMapping = {
       paintRed: 0xdc143c,
-      plastic: 0xababab,
+      plastic: 0xffffff,
       window: 0x02ccfe,
-      _defaultMat: 0x00ff00,
-      'carTire.014': 'red',
+      _defaultMat: 0x000000,
+      'carTire.014': '0x000000',
       'plastic.015': 0x02ccfe,
       paintYellow: 0xffd908,
     };
@@ -26,7 +26,9 @@ export default function Car() {
       if (colorMapping[key]) {
         const newMaterial = materials[key].clone();
         newMaterial.color = new Color(colorMapping[key]);
-        newMaterial.wireframe = true;
+        if (key !== 'carTire.014') {
+          newMaterial.wireframe = true;
+        }
         newMaterials[key] = newMaterial;
       }
     });

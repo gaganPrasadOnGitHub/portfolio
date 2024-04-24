@@ -7,7 +7,7 @@ const CarCanvas = () => {
     <div className="car-canvas-container">
       <Canvas>
         <OrthographicCamera />
-        <ambientLight intensity={2} />
+        <ambientLight intensity={3} />
         <Car />
       </Canvas>
     </div>
