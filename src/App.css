@@ -235,7 +235,7 @@
   align-items: center;
   flex-direction: column;
   justify-content: center;
-  color: var(--gray-color);
+  color: var(--text-color);
 }
 
 .slider-icon {
@@ -247,7 +247,7 @@
 .slider-icon svg {
   width: 30px;
   height: 30px;
-  fill: var(--gray-color);
+  fill: var(--text-color);
 }
 
 a {
@@ -374,7 +374,7 @@ a {
 
 .image-spinner-container {
   width: 100%;
-  min-height: 230px;
+  min-height: 200px;
   position: relative;
 }
 
@@ -390,6 +390,15 @@ a {
   color: var(--highlight);
   text-transform: uppercase;
   transition: all ease-in-out 200ms;
+}
+
+.card-info .description {
+  color: var(--gray-color);
+  transition: all ease-in-out 500ms;
+}
+
+.card:hover .description {
+  color: var(--text-color);
 }
 
 .card:hover .card-info .title {
@@ -462,14 +471,13 @@ footer .contact-icon-container {
     font-size: 14px;
     position: absolute;
     border-radius: 16px;
-    color: var(--gray-color);
-    transition: all ease-in-out 500ms;
     background: linear-gradient(0, #0000, var(--background) 15% 100%);
   }
 
   .card:hover .card-info .description {
-    height: 100%;
     opacity: 1;
+    height: 100%;
+    color: var(--gray-color);
   }
 
   .card-image {
@@ -486,5 +494,9 @@ footer .contact-icon-container {
       var(--bg-secondary),
       var(--background) 70% 100%
     );
+  }
+
+  .image-spinner-container {
+    min-height: 230px;
   }
 }
