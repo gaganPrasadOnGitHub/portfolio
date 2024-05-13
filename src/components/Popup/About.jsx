@@ -39,7 +39,7 @@ const About = () => {
         <div className="about-text">
           <p>
             Namaste, {`I'm`} Gagan Prasad, a focused Frontend Software Developer
-            I bring over {new Date().getFullYear() - 2021} years of professional
+            I bring over {new Date().getFullYear() - 2020} years of professional
             experience and personal passion to my work, also currently holding a
             global rank {rank} at{' '}
             <a

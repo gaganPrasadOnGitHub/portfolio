@@ -22,29 +22,35 @@ import HerokuIcon from '../components/Icons/HerokuIcon';
 import FigmaIcon from '../components/Icons/FigmaIcon';
 import PhotoShopIcon from '../components/Icons/PhotoShopIcon';
 import RenderIcon from '../components/Icons/RenderIcon';
+import ExpressIcon from './Icons/ExpressIcon';
+import JestIcon from './Icons/JestIcon';
+import NodeIcon from './Icons/NodeIcon';
 
 const skillsData = [
   { id: '1', title: 'HTML', icon: <HTMLIcon /> },
   { id: '2', title: 'CSS', icon: <CssIcon /> },
   { id: '3', title: 'JavaScript', icon: <JsIcon /> },
-  { id: '15', title: 'TypeScript', icon: <TsIcon /> },
-  { id: '6', title: 'Vue', icon: <VueIcon /> },
-  { id: '4', title: 'React', icon: <ReactIcon /> },
-  { id: '5', title: 'Redux', icon: <ReduxIcon /> },
-  { id: '13', title: 'Three.js', icon: <ThreejsIcon /> },
-  { id: '16', title: 'Open AI', icon: <OpenAiIcon /> },
+  { id: '4', title: 'TypeScript', icon: <TsIcon /> },
+  { id: '5', title: 'React', icon: <ReactIcon /> },
+  { id: '6', title: 'Redux', icon: <ReduxIcon /> },
+  { id: '7', title: 'Vue', icon: <VueIcon /> },
+  { id: '8', title: 'Three.js', icon: <ThreejsIcon /> },
+  { id: '9', title: 'Open AI', icon: <OpenAiIcon /> },
   { id: '10', title: 'Shopify', icon: <ShopifyIcon /> },
-  { id: '11', title: 'Git', icon: <GitIcon /> },
-  { id: '12', title: 'Github', icon: <GitHubIcon /> },
-  { id: '17', title: 'Bitbucket', icon: <BitBucketIcon /> },
-  { id: '7', title: 'Vite', icon: <ViteIcon /> },
-  { id: '8', title: 'Webpack', icon: <WebpackIcon /> },
-  { id: '9', title: 'Docker', icon: <DockerIcon /> },
-  { id: '14', title: 'Firebase', icon: <FirebaseIcon /> },
-  { id: '18', title: 'Heroku', icon: <HerokuIcon /> },
-  { id: '21', title: 'Render', icon: <RenderIcon /> },
-  { id: '19', title: 'Figma', icon: <FigmaIcon /> },
-  { id: '20', title: 'PhotoShop', icon: <PhotoShopIcon /> },
+  { id: '11', title: 'Jest', icon: <JestIcon /> },
+  { id: '12', title: 'Node.js', icon: <NodeIcon /> },
+  { id: '13', title: 'Git', icon: <GitIcon /> },
+  { id: '14', title: 'Github', icon: <GitHubIcon /> },
+  { id: '15', title: 'Bitbucket', icon: <BitBucketIcon /> },
+  { id: '16', title: 'Vite', icon: <ViteIcon /> },
+  { id: '17', title: 'Webpack', icon: <WebpackIcon /> },
+  { id: '18', title: 'Express', icon: <ExpressIcon /> },
+  { id: '19', title: 'Docker', icon: <DockerIcon /> },
+  { id: '20', title: 'Firebase', icon: <FirebaseIcon /> },
+  { id: '21', title: 'Heroku', icon: <HerokuIcon /> },
+  { id: '22', title: 'Render', icon: <RenderIcon /> },
+  { id: '23', title: 'Figma', icon: <FigmaIcon /> },
+  { id: '24', title: 'PhotoShop', icon: <PhotoShopIcon /> },
 ];
 
 const settings = {
